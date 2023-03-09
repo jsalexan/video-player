@@ -30,7 +30,7 @@
   <br><br>
 
   ## [Installation](#table-of-contents)
-   The repository is on GitHub: [GitHub repository for Hold Shift.](https://github.com/jsalexan/video-player) <br>
+   The repository is on GitHub: [GitHub repository for Video Player.](https://github.com/jsalexan/video-player) <br>
   There you will find following file types: <br>
   -HTML<br>
   -Markdown<br>
